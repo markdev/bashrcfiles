@@ -9,4 +9,5 @@ alias mysql-start="sudo /usr/local/mysql/support-files/mysql.server start"
 alias mysql-stop="sudo /usr/local/mysql/support-files/mysql.server stop"
 
 export PS1="\w: "
+alias ga='git add'
 
